@@ -26,6 +26,7 @@ The best repository showing why SMOTE and resampling methods don’t work in imb
 
 ## Articles
 1. [Why SMOTE might be a bad idea in geochemistry](https://datarock.com.au/blog/why-smote-might-be-a-bad-idea-in-geochemistry/) (2023)
+2. [Why SMOTE is not necessarily the answer to your imbalanced dataset](https://towardsdatascience.com/why-smote-is-not-necessarily-the-answer-to-your-imbalanced-dataset-ef19881da57a) by Sarem Seitz (2022) 🔥🔥🔥🔥🔥
 
 ## Presentations 
 1. [Evaluating the Effectiveness of Machine Learning in Storage Systems](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Vishwakarma-Liu-Hwang-Evaluating-Effectiveness-of-Machine-Learning-Storage-Systems.pdf) by Rahul Vishwakarma (DELL, 2024)  🔥🔥🔥🔥🔥
