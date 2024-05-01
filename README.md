@@ -24,5 +24,8 @@ The best repository showing why SMOTE and resampling methods don’t work in imb
 ## Videos
 1. [EuroSciPy 2023 - Get the best from your scikit-learn classifier](https://www.youtube.com/watch?v=6YnhoCfArQo) by Guillaume Lemaitre (2023)
 
+## Articles
+1. [Why SMOTE might be a bad idea in geochemistry](https://datarock.com.au/blog/why-smote-might-be-a-bad-idea-in-geochemistry/) (2023)
+
 ## Presentations 
 1. [Evaluating the Effectiveness of Machine Learning in Storage Systems](https://storagedeveloper.org/sites/default/files/SDC/2023/presentations/SNIA-SDC23-Vishwakarma-Liu-Hwang-Evaluating-Effectiveness-of-Machine-Learning-Storage-Systems.pdf) by Rahul Vishwakarma (DELL, 2024)  🔥🔥🔥🔥🔥
