@@ -20,6 +20,8 @@ The best repository showing why SMOTE and resampling methods don’t work in imb
 3. [The harm of class imbalance corrections for risk prediction models: illustration and simulation using logistic regression](https://academic.oup.com/jamia/article/29/9/1525/6605096) by Ruben van den Goorbergh, Maarten van Smeden, Dirk Timmerman, Ben Van Calster (University Medical Center Utrech, KU Leuven, 2022) 🔥🔥🔥🔥🔥
 4. [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://www.bmj.com/content/385/bmj-2023-078378)  by Gary S Collins et.al (Oxford, 2024)
 5. [Stop Oversampling for Class Imbalance Learning: A Critical Review](https://arxiv.org/abs/2202.03579) by Ahmad B. Hassanat, Ahmad S. Tarawneh, Ghada A. Altarawneh, Abdullah Almuhaimeed (2022)
+6. [Is Augmentation Effective in Improving Prediction in Imbalanced Datasets?](https://jds-online.org/journal/JDS/article/1390/info) by 
+Gabriel O. Assunção, Rafael Izbicki, Marcos O. Prates  (2024)
 
 ## Videos
 1. [EuroSciPy 2023 - Get the best from your scikit-learn classifier](https://www.youtube.com/watch?v=6YnhoCfArQo) by Guillaume Lemaitre (2023)
