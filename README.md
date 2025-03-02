@@ -23,6 +23,9 @@ The best repository showing why SMOTE and resampling methods don’t work in imb
 8. [Stop Oversampling for Class Imbalance Learning: A Critical Review](https://arxiv.org/abs/2202.03579) by Ahmad B. Hassanat, Ahmad S. Tarawneh, Ghada A. Altarawneh, Abdullah Almuhaimeed (2022)
 9. [Is Augmentation Effective in Improving Prediction in Imbalanced Datasets?](https://jds-online.org/journal/JDS/article/1390/info) by Gabriel O. Assunção, Rafael Izbicki, Marcos O. Prates  (2024)
 10. [A Closer Look at AUROC and AUPRC under Class Imbalance](https://arxiv.org/abs/2401.06091) by Matthew B. A. McDermott, Haoran Zhang, Lasse Hyldig Hansen, Giovanni Angelotti, Jack Gallifant (2025)
+11. [Conformal-in-the-Loop for Learning with Imbalanced Noisy Data](https://arxiv.org/abs/2411.02281) John Brandon Graham-Knight, Jamil Fayyad, Nourhan Bayasi, Patricia Lasserre, Homayoun Najjaran, University of British Columbia (2024) 
+
+
 
 ## Videos
 1. [EuroSciPy 2023 - Get the best from your scikit-learn classifier](https://www.youtube.com/watch?v=6YnhoCfArQo) by Guillaume Lemaitre (2023)
